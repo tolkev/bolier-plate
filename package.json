@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Kelvin Ndungi",
 	"description": "this is a free-code-class",
-	"keywords": ["freecode", "examples", "moringa"],
+	"keywords": ["freecodecamp", "examples", "moringa"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
